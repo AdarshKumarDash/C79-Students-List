@@ -1,0 +1,16 @@
+#sorting {
+    display: none;
+}
+
+span {
+    margin-right: 10px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+#names {
+    font-size: 20px;
+    font-weight: bold;
+}
